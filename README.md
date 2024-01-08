@@ -1,1 +1,2 @@
-# Sample-crud-fast-api
+# Crud API
+Sample crud api using fast api.
